@@ -2,7 +2,7 @@
 
 <h2>EP-0: Bugfix with ethnode array err</h2>
 <ul>
-  <li><b>Description</b>:</li>
+  <li><b>Description</b>: Array index may be less than 0 or higher than array size in some places of the ethnode code</li>
   <li><b>Status</b>: already done</li>
   <li>https://github.com/olegasivakov/ep-0</li>
 </ul>
