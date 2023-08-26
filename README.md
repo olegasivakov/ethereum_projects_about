@@ -3,14 +3,14 @@
 <h2>EP-0: Bugfix with ethnode array err</h2>
 <ul>
   <li><b>Description</b>:</li>
-  <li><b>Status</b>: done</li>
+  <li><b>Status</b>: already done</li>
   <li>https://github.com/olegasivakov/ep-0</li>
 </ul>
 
 <h2>EP-1: The mempool search JSON RPC call to ethnode</h2>
 <ul>
   <li><b>Description</b>:</li>
-  <li><b>Status</b>: done</li>
+  <li><b>Status</b>: already done</li>
   <li>https://github.com/olegasivakov/ep-1</li>
 </ul>
 
