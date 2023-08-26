@@ -72,7 +72,7 @@
 <li><b>Status</b>: idea</li>
 </ul>
 
-<h2>EP-12: Random number generator</h2>
+<h2>EP-12: Random numbers for contracts</h2>
 <ul>
 <li><b>Description</b>:</li>
 <li><b>Status</b>: idea</li>
