@@ -1,4 +1,4 @@
-# Ethereum projects
+# Ethereum projects.
 
 <h2>EP-0: Bugfix with ethnode array err</h2>
 <ul>
