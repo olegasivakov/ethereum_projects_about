@@ -110,7 +110,7 @@
   <li><b>Status</b>: idea</li>
 </ul>
 
-<h2>EP-18: Minify blockchain data size</h2>
+<h2>EP-18: Blockchain data storage manager</h2>
 <ul>
   <li><b>Description</b>:</li>
   <li><b>Status</b>: idea</li>
