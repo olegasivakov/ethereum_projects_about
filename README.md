@@ -122,7 +122,7 @@
   <li><b>Status</b>: idea</li>
 </ul>
 
-<h2>EP-20: Mail server hosted on ethnode</h2>
+<h2>EP-20: Mail server&client hosted on ethnode</h2>
 <ul>
   <li><b>Description</b>:</li>
   <li><b>Status</b>: idea</li>
