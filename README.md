@@ -26,7 +26,7 @@
   <li><b>Status</b>: idea</li>
 </ul>
 
-<h2>EP-4: RDBMS implementation</h2>
+<h2>EP-4: RDBMS for ethnode</h2>
 <ul>
   <li><b>Description</b>:</li>
   <li><b>Status</b>: idea</li>
