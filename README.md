@@ -14,7 +14,7 @@
   <li>https://github.com/olegasivakov/ep-1</li>
 </ul>
 
-<h2>EP-2: ISO15022/20022 tx data parser and oracle application</h2>
+<h2>EP-2: ISO15022/20022 tx data parser and oracle</h2>
 <ul>
   <li><b>Description</b>:</li>
   <li><b>Status</b>: idea</li>
