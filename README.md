@@ -110,7 +110,7 @@
   <li><b>Status</b>: idea</li>
 </ul>
 
-<h2>EP-18: Auto-compress blockchain data (the last txs only)</h2>
+<h2>EP-18: Auto-compress blockchain data</h2>
 <ul>
   <li><b>Description</b>:</li>
   <li><b>Status</b>: idea</li>
