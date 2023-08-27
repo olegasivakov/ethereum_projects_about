@@ -110,7 +110,13 @@
   <li><b>Status</b>: idea</li>
 </ul>
 
-<h2>EP-18: Auto-compress blockchain data</h2>
+<h2>EP-18: Minify blockchain data size</h2>
+<ul>
+  <li><b>Description</b>:</li>
+  <li><b>Status</b>: idea</li>
+</ul>
+
+<h2>EP-19: Send eth messages via email</h2>
 <ul>
   <li><b>Description</b>:</li>
   <li><b>Status</b>: idea</li>
