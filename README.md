@@ -2,7 +2,7 @@
 
 ## EP-0: Bugfix with ethnode array err
  - <b>Description</b>: Array index may be less than 0 or higher than array size in some places of the ethnode code
- - <b>Status</b>: already done
+ - <b>Status</b>: ```already done```
  - https://github.com/olegasivakov/ep-0
 
 <h2>EP-1: The mempool search JSON RPC call to ethnode</h2>
