@@ -3,21 +3,21 @@
 <h2>EP-0: Bugfix with ethnode array err</h2>
 <ul>
   <li><b>Description</b>: Array index may be less than 0 or higher than array size in some places of the ethnode code</li>
-  <li><b>Status</b>: <span style="color:green;">already done</span>span</li>
+  <li><b>Status</b>: <span style="color:green;">already done</span></li>
   <li>https://github.com/olegasivakov/ep-0</li>
 </ul>
 
 <h2>EP-1: The mempool search JSON RPC call to ethnode</h2>
 <ul>
   <li><b>Description</b>:</li>
-  <li><b>Status</b>: <span style="color:green;">already done</span>span</li>
+  <li><b>Status</b>: <span style="color:green;">already done</span></li>
   <li>https://github.com/olegasivakov/ep-1</li>
 </ul>
 
 <h2>EP-2: ISO15022/20022 tx data parser and oracle</h2>
 <ul>
   <li><b>Description</b>:</li>
-  <li><b>Status</b>: <span style="color:blue;">in work</span>span</li>
+  <li><b>Status</b>: <span style="color:blue;">in work</span></li>
 </ul>
 
 <h2>EP-3: Banking security implementation to nodes</h2>
@@ -119,11 +119,11 @@
 <h2>EP-19: Send eth messages via email</h2>
 <ul>
   <li><b>Description</b>:</li>
-  <li><b>Status</b>: <span style="color:blue;">in work</span>span</li>
+  <li><b>Status</b>: <span style="color:blue;">in work</span></li>
 </ul>
 
 <h2>EP-20: Mail client & server hosted on ethnode</h2>
 <ul>
   <li><b>Description</b>:</li>
-  <li><b>Status</b>: <span style="color:blue;">in work</span>span</li>
+  <li><b>Status</b>: <span style="color:blue;">in work</span></li>
 </ul>
