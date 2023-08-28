@@ -52,7 +52,7 @@
 
 ## EP-12: Random numbers for contracts
  - <b>Description</b>:
- - <b>Status</b>: idea
+ - <b>Status</b>: ```in work```
 
 ## EP-13: Encrypted tx data
  - <b>Description</b>:
