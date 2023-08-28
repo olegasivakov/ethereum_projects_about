@@ -10,7 +10,7 @@
 <h2>EP-1: The mempool search JSON RPC call to ethnode</h2>
 <ul>
   <li><b>Description</b>:</li>
-  <li><b>Status</b>: <span style="color:green;">already done</span></li>
+  <li><b>Status</b>: ```already done```</li>
   <li>https://github.com/olegasivakov/ep-1</li>
 </ul>
 
