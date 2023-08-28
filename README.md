@@ -38,7 +38,7 @@
  - <b>Description</b>:
  - <b>Status</b>: idea
 
-## EP-9: Improved performance
+## EP-9: Performance improvement
  - <b>Description</b>:
  - <b>Status</b>: idea
 
