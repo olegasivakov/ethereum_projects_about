@@ -1,6 +1,6 @@
 # Ethereum projects
 
-##EP-0: Bugfix with ethnode array err
+## EP-0: Bugfix with ethnode array err
  - <b>Description</b>: Array index may be less than 0 or higher than array size in some places of the ethnode code
  - <b>Status</b>: already done
  - https://github.com/olegasivakov/ep-0
