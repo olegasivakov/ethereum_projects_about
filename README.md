@@ -5,123 +5,83 @@
  - <b>Status</b>: ```already done```
  - https://github.com/olegasivakov/ep-0
 
-<h2>EP-1: The mempool search JSON RPC call to ethnode</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: already done</li>
-  <li>https://github.com/olegasivakov/ep-1</li>
-</ul>
+## EP-1: The mempool search JSON RPC call to ethnode
+ - <b>Description</b>:
+ - <b>Status</b>: ```already done```
+ - https://github.com/olegasivakov/ep-1
 
-<h2>EP-2: ISO15022/20022 tx data parser and oracle</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: <span style="color:blue;">in work</span></li>
-</ul>
+## EP-2: ISO15022/20022 tx data parser and oracle
+ - <b>Description</b>:
+ - <b>Status</b>: ```in work```
 
-<h2>EP-3: Banking security implementation to nodes</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-3: Banking security implementation to nodes
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-4: RDBMS for ethnode</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-4: RDBMS for ethnode
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-5: Self-only tx data storage</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-5: Self-only tx data storage
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-6: Node media storage</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>:</li>
-</ul>
+## EP-6: Node media storage
+ - <b>Description</b>:
+ - <b>Status</b>:
 
-<h2>EP-7: Data-not-for-chain tx container (DNC or DOC? container)</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-7: Data-not-for-chain tx container (DNC or DOC? container)
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-8: Fiat payment gate</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-8: Fiat payment gate
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-9: Improved performance</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-9: Improved performance
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-10: Off-chain N2N (node-to-node) messaging</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-10: Off-chain N2N (node-to-node) messaging
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-11: NPID (Node private ID) and private data storage</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-11: NPID (Node private ID) and private data storage
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-12: Random numbers for contracts</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-12: Random numbers for contracts
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-13: Encrypted tx data</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-13: Encrypted tx data
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-14: Offline transactions support</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-14: Offline transactions support
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-15: Oracle for collateral of stablecoin</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-15: Oracle for collateral of stablecoin
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-16: Biometry-based seed vector</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-16: Biometry-based seed vector
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-17: Random transactions in the block</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-17: Random transactions in the block
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-18: Blockchain data storage manager</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: idea</li>
-</ul>
+## EP-18: Blockchain data storage manager
+ - <b>Description</b>:
+ - <b>Status</b>: idea
 
-<h2>EP-19: Send eth messages via email</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: <span style="color:blue;">in work</span></li>
-</ul>
+## EP-19: Send eth messages via email
+ - <b>Description</b>:
+ - <b>Status</b>: ```in work```
 
-<h2>EP-20: Mail client & server hosted on ethnode</h2>
-<ul>
-  <li><b>Description</b>:</li>
-  <li><b>Status</b>: <span style="color:blue;">in work</span></li>
-</ul>
+## EP-20: Mail client & server hosted on ethnode
+ - <b>Description</b>:
+ - <b>Status</b>: ```in work```
