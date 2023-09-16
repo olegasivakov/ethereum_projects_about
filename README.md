@@ -14,13 +14,13 @@
  - <b>Description</b>:
  - <b>Status</b>: ```in work```
 
-## EP-3: Banking security implementation to nodes
+## EP-3: Banking security implementation for nodes
  - <b>Description</b>:
  - <b>Status</b>: idea
 
 ## EP-4: RDBMS for ethnode
  - <b>Description</b>:
- - <b>Status</b>: idea
+ - <b>Status</b>: ```need```
 
 ## EP-5: Self-only tx data storage
  - <b>Description</b>:
