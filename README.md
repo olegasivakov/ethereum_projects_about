@@ -85,3 +85,7 @@
 ## EP-20: Mail client & server hosted on ethnode
  - <b>Description</b>:
  - <b>Status</b>: ```in work```
+
+## EP-21: Ethereum node extensions
+ - <b>Description</b>:
+ - <b>Status</b>: ```need```
