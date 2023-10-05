@@ -62,15 +62,15 @@
  - <b>Status</b>: idea
 
 ## EP-14: Offline transactions support
- - <b>Description</b>:
+ - <b>Description</b>: This is a research project intended to create a possibility of offline transactions.
  - <b>Status</b>: idea
 
 ## EP-15: Oracle for collateral of stablecoin
- - <b>Description</b>:
+ - <b>Description</b>: The real assets (money, or securities, or physical assets in the warehouse, or registered rights) of collaterized stablecoins should be available for automated control.
  - <b>Status</b>: idea
 
 ## EP-16: Biometry-based seed vector
- - <b>Description</b>:
+ - <b>Description</b>: This is a set of JS, Java, Swift, Golang scripts for generating the biometry-based (user photo or fingerprint) seed vector.
  - <b>Status</b>: idea
 
 ## EP-17: Random transactions in the block
