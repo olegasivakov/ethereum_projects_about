@@ -52,12 +52,13 @@
  - <b>Status</b>: idea
 
 ## EP-12: Random numbers for contracts
- - <b>Description</b>: 
+ - <b>Description</b>: Random number generator for smart contract is the one of widely discissed themes in crypto community. RNG should combine both deterministic result of SC execution (in order to each node stores the same result), and random number (we're still wants random numbers?).
  - <b>Status</b>: ```in work```
  - https://github.com/olegasivakov/ep-12
+ - Core RNG libraries repos (under development) have been moved to https://github.com/olegasivakov/rng (https://github.com/users/olegasivakov/projects/4 project).
 
 ## EP-13: Encrypted tx data
- - <b>Description</b>:
+ - <b>Description</b>: In some cases tx data should be securely broadcasted via public blockchain. The common solution is decryption of tx data on the authorized node where smart contract should be executed after the signed block containing the same transaction was delivered.
  - <b>Status</b>: idea
 
 ## EP-14: Offline transactions support
