@@ -87,10 +87,10 @@
  - https://github.com/olegasivakov/ep-19
 
 ## EP-20: Mail client & server hosted on ethnode
- - <b>Description</b>: 
+ - <b>Description</b>: Mail client (Windows, Linux, MacOS - GUI) and server performing transfer coins and call smart contracts via email.
  - <b>Status</b>: ```in work```
  - https://github.com/olegasivakov/ep-20
 
 ## EP-21: Ethereum node extensions
- - <b>Description</b>:
+ - <b>Description</b>: Utility solution allowing plug-and-play connection for node software modules.
  - <b>Status</b>: ```need```
