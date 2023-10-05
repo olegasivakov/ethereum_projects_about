@@ -74,11 +74,11 @@
  - <b>Status</b>: idea
 
 ## EP-17: Random transactions in the block
- - <b>Description</b>:
+ - <b>Description</b>: This is a research project. Transactions included in the blocks now are ordered by gas. It allow some users to manipulate the order of transactions execution. Our idea is to add transactions in the random order. Users will retain the ability to manage the gas price in order to add transaction to the block, but the order of transactions will become random.
  - <b>Status</b>: idea
 
 ## EP-18: Blockchain data storage manager
- - <b>Description</b>:
+ - <b>Description</b>: Blockchain data storage size on the disk may grow without any control and grab all available disk space. We offer to add automated control of disk space usage truncating older and unusable block data.
  - <b>Status</b>: idea
 
 ## EP-19: Send eth messages via email
