@@ -78,16 +78,16 @@
  - <b>Status</b>: idea
 
 ## EP-18: Blockchain data storage manager
- - <b>Description</b>: Blockchain data storage size on the disk may grow without any control and grab all available disk space. We offer to add automated control of disk space usage truncating older and unusable block data.
+ - <b>Description</b>: Blockchain data storage size on the disk may grow without any control and grab all available disk space. We offer to add automated control of disk space usage truncating the older and unusable block data.
  - <b>Status</b>: idea
 
 ## EP-19: Send eth messages via email
- - <b>Description</b>:
+ - <b>Description</b>: This is a research project intended to create the possibiity of transfer coins and initiate transactions related to smart contracts via email. Our idea is that email may contain both transaction and text from some user to another user and can be considered as a contract. Rights of the parties under this contract may be protected in court
  - <b>Status</b>: ```in work```
  - https://github.com/olegasivakov/ep-19
 
 ## EP-20: Mail client & server hosted on ethnode
- - <b>Description</b>:
+ - <b>Description</b>: 
  - <b>Status</b>: ```in work```
  - https://github.com/olegasivakov/ep-20
 
