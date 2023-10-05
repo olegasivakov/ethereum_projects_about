@@ -6,44 +6,45 @@
  - https://github.com/olegasivakov/ep-0
 
 ## EP-1: The mempool search JSON RPC call to ethnode
- - <b>Description</b>:
+ - <b>Description</b>: The mempool request spents a lot time blocking the timely parsing and response of mempool data. We offer to ask only transactions selected by some data from the node mempool.
  - <b>Status</b>: ```already done```
  - https://github.com/olegasivakov/ep-1
 
-## EP-2: ISO15022/20022 tx data parser and oracle
- - <b>Description</b>:
+## EP-2: ISO15022/20022 and MT format support
+ - <b>Description</b>: ISO 15022/20022 and MT messaging format (SWIFT) are used by financial institutions and may be useful for any blockchain applications needed the integration with information systems of financial insitutions.
  - <b>Status</b>: ```in work```
+ - https://github.com/olegasivakov/ep-2
 
 ## EP-3: Banking security implementation for nodes
- - <b>Description</b>:
+ - <b>Description</b>: Cybersecurity frameworks and standards required for banking sector (such as ISO27k, NIST 800-171, GOST R 57580) are about the organizational and documentation support of cybercecurity and provides requirements for information systems that process financial transactions. Blockchain expance have intersected with traditional institutions and needs to be supported with the required standards.
  - <b>Status</b>: idea
 
 ## EP-4: RDBMS for ethnode
- - <b>Description</b>:
+ - <b>Description</b>: Our practice of blockchain implementation to traditional markets (such as elictricity power supply, business investments, ecommerce, etc.) show that the business system needs not just key-value address-transaction relations, but the structured historical data and relations between many objects of smart contracts and blockchain transactions. We offer to use RDBMS as storage of transaction and smart contracts data on the node.
  - <b>Status</b>: ```need```
 
 ## EP-5: Self-only tx data storage
- - <b>Description</b>:
+ - <b>Description</b>: In some cases we need to read from block, decrtypt and store data for transactions related to addresses located on the current node only. It allows to keep sensitive data safe, and to reduce blockchain data storage.
  - <b>Status</b>: idea
 
-## EP-6: Node media storage
- - <b>Description</b>:
- - <b>Status</b>:
+## EP-6: Node media and documents storage
+ - <b>Description</b>: Some blockchain areas of blockchain applications are requires to grant access to media and documents files. We offer to develop the node media and documents data storage accessible via public internet address on the node.
+ - <b>Status</b>: idea
 
 ## EP-7: Data-not-for-chain tx container (DNC or DOC? container)
- - <b>Description</b>:
+ - <b>Description</b>: Some user data should be transfered from node to one or mode nodes without adding to the block.
  - <b>Status</b>: idea
 
 ## EP-8: Fiat payment gate
- - <b>Description</b>:
+ - <b>Description</b>: Users are buys and sells coins and tokens for fiat. We offer to develop the payment gate (ISO 25022/20022, banking Open API standard, etc.) that will simplify the development process of applications integrated with fiat payment systems.
  - <b>Status</b>: idea
 
 ## EP-9: Performance improvement
- - <b>Description</b>:
+ - <b>Description</b>: This is a research project intended to reduce tx data and improve tx speed to 10 TPS and more.
  - <b>Status</b>: idea
 
 ## EP-10: Off-chain N2N (node-to-node) messaging
- - <b>Description</b>:
+ - <b>Description</b>: This is a peer-to-peer (node-to-node) direct messaging based on the DNC (EP-7) container.
  - <b>Status</b>: idea
 
 ## EP-11: NPID (Node private ID) and private data storage
@@ -53,6 +54,7 @@
 ## EP-12: Random numbers for contracts
  - <b>Description</b>:
  - <b>Status</b>: ```in work```
+ - https://github.com/olegasivakov/ep-12
 
 ## EP-13: Encrypted tx data
  - <b>Description</b>:
@@ -81,10 +83,12 @@
 ## EP-19: Send eth messages via email
  - <b>Description</b>:
  - <b>Status</b>: ```in work```
+ - https://github.com/olegasivakov/ep-19
 
 ## EP-20: Mail client & server hosted on ethnode
  - <b>Description</b>:
  - <b>Status</b>: ```in work```
+ - https://github.com/olegasivakov/ep-20
 
 ## EP-21: Ethereum node extensions
  - <b>Description</b>:
