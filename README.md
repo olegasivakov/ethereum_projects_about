@@ -6,7 +6,7 @@
  - https://github.com/olegasivakov/ep-0
 
 ## EP-1: The mempool search JSON RPC call to ethnode
- - <b>Description</b>: The mempool request spents a lot time blocking the timely parsing and response of mempool data. We offer to ask only transactions selected by some data from the node mempool.
+ - <b>Description</b>: The mempool request spents a lot of time blocking the timely parsing and response of mempool data. We offer to ask only transactions selected by some data from the node mempool.
  - <b>Status</b>: ```already done```
  - https://github.com/olegasivakov/ep-1
 
@@ -48,11 +48,11 @@
  - <b>Status</b>: idea
 
 ## EP-11: NPID (Node private ID) and private data storage
- - <b>Description</b>:
+ - <b>Description</b>: In some cases blockchain user is need to be identified in order to KYC/AML requirements. We offer to develop L2 solution that implements KYC/AML requireements, and allow to keep the user's private data safe on the node allowing one-time access to PD for authorized address.
  - <b>Status</b>: idea
 
 ## EP-12: Random numbers for contracts
- - <b>Description</b>:
+ - <b>Description</b>: 
  - <b>Status</b>: ```in work```
  - https://github.com/olegasivakov/ep-12
 
