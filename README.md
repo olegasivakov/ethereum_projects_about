@@ -6,7 +6,7 @@
  - https://github.com/olegasivakov/ep-0
 
 ## EP-1: The mempool search JSON RPC call to ethnode
- - <b>Description</b>: The mempool request spents a lot of time blocking the timely parsing and response of mempool data. We offer to ask only transactions selected by some data from the node mempool.
+ - <b>Description</b>: The memory request spents a lot of time blocking the parsing of mempool data. Our improvement allow to get only transactions selected by some data from the node mempool.
  - <b>Status</b>: ```already done```
  - https://github.com/olegasivakov/ep-1
  - https://github.com/olegasivakov/ep-1b
