@@ -37,7 +37,7 @@
  - <b>Status</b>: idea
 
 ## EP-8: Fiat payment gate
- - <b>Description</b>: Users are buys and sells coins and tokens for fiat. We offer to develop the payment gate (ISO 25022/20022, banking Open API standard, etc.) that will simplify the development process of applications integrated with fiat payment systems.
+ - <b>Description</b>: Users are buys and sells coins and tokens for fiat. We offer to develop the payment gate (ISO 20022, banking Open API standard, etc.) that will simplify the development process of applications integrated with fiat payment systems.
  - <b>Status</b>: idea
 
 ## EP-9: Performance improvement
