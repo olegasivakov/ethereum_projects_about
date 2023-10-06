@@ -10,8 +10,8 @@
  - <b>Status</b>: ```already done```
  - https://github.com/olegasivakov/ep-1
 
-## EP-2: ISO15022/20022 and MT format support for Ethereum
- - <b>Description</b>: ISO 15022/20022 and MT messaging format (SWIFT) are used by financial institutions and may be useful for any blockchain applications needed the integration with information systems of financial insitutions.
+## EP-2: ISO 20022 and MT format support for Ethereum
+ - <b>Description</b>: ISO 20022 and MT messaging format (SWIFT) are used by financial institutions and may be useful for any blockchain applications needed the integration with information systems of financial insitutions.
  - <b>Status</b>: ```in work```
  - https://github.com/olegasivakov/ep-2
 
