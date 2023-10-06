@@ -9,6 +9,7 @@
  - <b>Description</b>: The mempool request spents a lot of time blocking the timely parsing and response of mempool data. We offer to ask only transactions selected by some data from the node mempool.
  - <b>Status</b>: ```already done```
  - https://github.com/olegasivakov/ep-1
+ - https://github.com/olegasivakov/ep-1b
 
 ## EP-2: ISO 20022 and MT format support for Ethereum
  - <b>Description</b>: ISO 20022 and MT messaging format (SWIFT) are used by financial institutions and may be useful for any blockchain applications needed the integration with information systems of financial insitutions.
