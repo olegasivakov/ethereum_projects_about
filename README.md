@@ -92,6 +92,6 @@
  - <b>Status</b>: ```in work```
  - https://github.com/olegasivakov/ep-20
 
-## EP-21: Ethereum node extensions
- - <b>Description</b>: Utility solution allowing plug-and-play connection for node software modules.
+## EP-21: Ethereum node extensions (Node improvement module)
+ - <b>Description</b>: Utility solution allowing plug-and-play connection for node improvement modules.
  - <b>Status</b>: ```need```
